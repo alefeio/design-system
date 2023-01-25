@@ -1,0 +1,6 @@
+{
+    "extends": "@projeto-de-sucesso/ts-config/react.json",
+    "include": [
+        "src"
+    ],
+}
